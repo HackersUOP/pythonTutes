@@ -18,10 +18,10 @@
 
 '''
 List:
-List is one of the most powerful data structure in python
+List is one of the most powerful data structure in Python
 It can used as
     1.List :
-        Usual operations of list can be done using python
+        Usual operations of list can be done using Python
     2.Stack :
         append(element) - To insert(push) an element to the stack
         pop() - To pop element from the stack

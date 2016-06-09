@@ -18,7 +18,7 @@
 
 
 '''
-This is the hello world application for python
+This is the hello world application for Python
 For to be advance we have used integers, floats, Strings and try to connect them and print
 '''
 x = 5 #integer
