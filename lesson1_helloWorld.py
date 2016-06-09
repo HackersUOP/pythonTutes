@@ -27,4 +27,4 @@ z = 'UOP' #String
 a = "UOP" #String
 
 print str(x) + str(y) + z + a #For "+" all should be converted to string before concat them.
-print x , y , z + a #For ',' no need to convert them for concat but space will be given automatically before the value.
+print x , y , z + a #For "," no need to convert them for concat but space will be given automatically before the value.
